@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    ${1:<!-- your meta data here -->}
+  </metadata>
+</package>
+]]></content>
+	<tabTrigger>nuget spec:empty</tabTrigger>
+	<scope>text.xml.nuspec</scope>
+</snippet>
