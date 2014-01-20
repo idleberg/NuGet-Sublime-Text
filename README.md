@@ -1,6 +1,6 @@
 # NuGet for Sublime Text
 
-Syntax completions for creating [NuGet](http://www.jrsoftware.org/isinfo.php) XML files
+Syntax completions for creating [NuGet](http://www.nuget.org/) XML files
 
 ## Installation
 
