@@ -20,10 +20,6 @@ Syntax completions for creating [NuGet](http://www.nuget.org/) XML files
 1. Download the files using the GitHub .zip download option
 2. Unzip the files to your Sublime Text `Packages/User` directory
 
-## Credits
-
-The `.tmLanguage` is a modified version of Brad Robertson's [XML.tmLanguage](https://github.com/bradrobertson/sublime-packages/tree/master/XML)
-
 ## License
 
 The MIT License (MIT)
