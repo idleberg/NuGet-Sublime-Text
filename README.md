@@ -20,6 +20,16 @@ Syntax completions for creating [NuGet](http://www.nuget.org/) XML files
 1. Download the files using the GitHub .zip download option
 2. Unzip the files to your Sublime Text `Packages/User` directory
 
+## Usage
+
+### Completions
+
+All available NuGet XML elements will complete as you press the `Tab` key.
+
+### Snippets
+
+You can use `nuget spec` to scaffold an empty XML file. Use `Tab` to jump between the available fields.
+
 ## License
 
 The MIT License (MIT)
