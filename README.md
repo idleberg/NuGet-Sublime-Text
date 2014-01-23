@@ -1,6 +1,6 @@
 # NuGet for Sublime Text
 
-Syntax completions for creating [NuGet](http://www.nuget.org/) XML files
+Syntax completions and snippets for creating [NuGet](http://www.nuget.org/) XML files.
 
 ## Installation
 
