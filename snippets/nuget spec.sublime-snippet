@@ -21,6 +21,6 @@
   </metadata>
 </package>
 ]]></content>
-	<tabTrigger>nuget spec</tabTrigger>
+	<tabTrigger>nuget_spec</tabTrigger>
 	<scope>text.xml.nuspec</scope>
 </snippet>

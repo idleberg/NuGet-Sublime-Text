@@ -7,6 +7,6 @@
   </metadata>
 </package>
 ]]></content>
-	<tabTrigger>nuget spec:empty</tabTrigger>
+	<tabTrigger>nuget_spec:empty</tabTrigger>
 	<scope>text.xml.nuspec</scope>
 </snippet>
