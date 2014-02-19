@@ -28,7 +28,7 @@ All available NuGet XML elements will complete as you press the `Tab` key.
 
 ### Snippets
 
-You can use `nuget spec` to scaffold an empty XML file. Use `Tab` to jump between the available fields.
+You can use `nuget_spec` to scaffold an empty XML file. Use `Tab` to jump between the available fields.
 
 ## License
 
