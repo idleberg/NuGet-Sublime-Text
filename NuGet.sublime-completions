@@ -10,7 +10,7 @@
         { "trigger": "frameworkAssemblies", "contents": "<frameworkAssemblies>\n\t${1:<!-- your framework assemblies here -->}\n</frameworkAssemblies>" },
         { "trigger": "frameworkAssembly", "contents": "<frameworkAssembly assemblyName=\"${1:assembly_name}\"${2: targetFramework=\"${3:target_framework}\"} />" },
         { "trigger": "group", "contents": "<group>\n\t${1:<!-- your group here -->}\n</group>" },
-        { "trigger": "group targetFramework", "contents": "<group targetFramework=\"${1:target_framework}\">\n\t${2:<!-- your group here -->}\n</group>" },
+        { "trigger": "group:targetFramework", "contents": "<group targetFramework=\"${1:target_framework}\">\n\t${2:<!-- your group here -->}\n</group>" },
         { "trigger": "iconUrl", "contents": "<iconUrl>${1:http://${2:icon_url}}</iconUrl>" },
         { "trigger": "id", "contents": "<id>${1:package_id}</id>" },
         { "trigger": "Import", "contents": "<Import Project=\"${1:path_to_package}\" Condition=\"${2:Build}\" />" },
