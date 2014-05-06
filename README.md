@@ -1,4 +1,4 @@
-# NuGet for Sublime Text
+# NuGet for Sublime Text [![Build Status](https://secure.travis-ci.org/idleberg/NuGet-Sublime-Text.png)](http://travis-ci.org/idleberg/NuGet-Sublime-Text)
 
 Syntax completions and snippets for creating [NuGet](http://www.nuget.org/) XML files.
 
