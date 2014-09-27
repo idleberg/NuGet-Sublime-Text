@@ -22,7 +22,7 @@ Sublime Text snippets for creating [NuGet](http://www.nuget.org/) XML files.
 
 ## Usage
 
-By default, SublimeText does not show the completion pop-up when working in the text scope, yet the completions still work. To enable the pop-up, add `text.xml.nuget` (or `text.xml`) to `auto_complete_selector` in your user settings.
+By default, SublimeText does not show the completion pop-up when working in the text scope, yet the completions still work. To enable the pop-up, add `text.xml.nuspec` (or `text.xml`) to `auto_complete_selector` in your user settings.
 
 ### Snippets
 
