@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+<reference file="${1:file}" />
+]]></content>
+  <tabTrigger>reference</tabTrigger>
+  <scope>text.xml.nuspec</scope>
+</snippet>

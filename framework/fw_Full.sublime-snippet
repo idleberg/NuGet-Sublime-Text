@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+full
+]]></content>
+  <tabTrigger>fw:Full</tabTrigger>
+  <scope>text.xml.nuspec</scope>
+</snippet>

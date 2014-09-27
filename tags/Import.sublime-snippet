@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+<Import Project="${1:path_to_package}" Condition="${2:Build}" />
+]]></content>
+  <tabTrigger>Import</tabTrigger>
+  <scope>text.xml.nuspec</scope>
+</snippet>

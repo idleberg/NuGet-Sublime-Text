@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+<dependency id="${1:dependency_id}" version="${2:version}" />
+]]></content>
+  <tabTrigger>dependency</tabTrigger>
+  <scope>text.xml.nuspec</scope>
+</snippet>

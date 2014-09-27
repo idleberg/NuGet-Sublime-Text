@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+netmf
+]]></content>
+  <tabTrigger>fw:.NET Micro Framework</tabTrigger>
+  <scope>text.xml.nuspec</scope>
+</snippet>

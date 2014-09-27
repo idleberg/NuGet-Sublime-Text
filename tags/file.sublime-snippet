@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+<file src="${1:readme.txt}" ${2: target="${3:target}"} />
+]]></content>
+  <tabTrigger>file</tabTrigger>
+  <scope>text.xml.nuspec</scope>
+</snippet>

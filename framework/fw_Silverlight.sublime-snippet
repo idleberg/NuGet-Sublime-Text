@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+sl
+]]></content>
+  <tabTrigger>fw:Silverlight</tabTrigger>
+  <scope>text.xml.nuspec</scope>
+</snippet>

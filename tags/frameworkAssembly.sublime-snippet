@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+<frameworkAssembly assemblyName="${1:assembly_name}"${2: targetFramework="${3:target_framework}"} />
+]]></content>
+  <tabTrigger>frameworkAssembly</tabTrigger>
+  <scope>text.xml.nuspec</scope>
+</snippet>

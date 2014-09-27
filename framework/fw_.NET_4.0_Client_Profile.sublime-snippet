@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+net40-client
+]]></content>
+  <tabTrigger>fw:.NET 4.0 Client Profile</tabTrigger>
+  <scope>text.xml.nuspec</scope>
+</snippet>

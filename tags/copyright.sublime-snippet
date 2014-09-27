@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+<copyright>${2:Copyright ${1:year}}</copyright>
+]]></content>
+  <tabTrigger>copyright</tabTrigger>
+  <scope>text.xml.nuspec</scope>
+</snippet>

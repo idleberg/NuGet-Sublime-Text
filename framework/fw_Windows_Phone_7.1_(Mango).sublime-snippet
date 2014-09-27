@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+wp71
+]]></content>
+  <tabTrigger>fw:Windows Phone 7.1 (Mango)</tabTrigger>
+  <scope>text.xml.nuspec</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+portable-windows8+net45
+]]></content>
+  <tabTrigger>fw:Portable class library for Windows Store apps and .NET 4.5</tabTrigger>
+  <scope>text.xml.nuspec</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+cf
+]]></content>
+  <tabTrigger>fw:CompactFramework</tabTrigger>
+  <scope>text.xml.nuspec</scope>
+</snippet>

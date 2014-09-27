@@ -1,0 +1,10 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+<Project ToolsVersion="${1:4.0}" DefaultTargets="${2:Build}" xmlns="${3:http://schemas.microsoft.com/developer/msbuild/2003"}
+	${4:<!-- import projects here -->}
+</Project>
+]]></content>
+  <tabTrigger>Project</tabTrigger>
+  <scope>text.xml.nuspec</scope>
+</snippet>

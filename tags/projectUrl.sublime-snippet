@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+<projectUrl>${1:http://${2:project_url}}</projectUrl>
+]]></content>
+  <tabTrigger>projectUrl</tabTrigger>
+  <scope>text.xml.nuspec</scope>
+</snippet>

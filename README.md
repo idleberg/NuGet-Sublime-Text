@@ -1,6 +1,6 @@
 # NuGet for Sublime Text [![Build Status](https://secure.travis-ci.org/idleberg/NuGet-Sublime-Text.png)](http://travis-ci.org/idleberg/NuGet-Sublime-Text)
 
-Syntax completions and snippets for creating [NuGet](http://www.nuget.org/) XML files.
+Sublime Text snippets for creating [NuGet](http://www.nuget.org/) XML files.
 
 ## Installation
 
@@ -24,11 +24,11 @@ Syntax completions and snippets for creating [NuGet](http://www.nuget.org/) XML 
 
 By default, SublimeText does not show the completion pop-up when working in the text scope, yet the completions still work. To enable the pop-up, add `text.xml.nuget` (or `text.xml`) to `auto_complete_selector` in your user settings.
 
-### Completions
+### Snippets
 
 All available NuGet XML elements will complete as you press the `Tab` key.
 
-### Snippets
+### Scaffolding
 
 You can use `nuget_spec` to scaffold an empty XML file. Use `Tab` to jump between the available fields.
 

@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+<id>${1:package_id}</id>
+]]></content>
+  <tabTrigger>id</tabTrigger>
+  <scope>text.xml.nuspec</scope>
+</snippet>

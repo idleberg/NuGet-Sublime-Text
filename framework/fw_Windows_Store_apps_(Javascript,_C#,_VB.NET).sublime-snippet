@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+netcore45
+]]></content>
+  <tabTrigger>fw:Windows Store apps (Javascript, C#, VB.NET)</tabTrigger>
+  <scope>text.xml.nuspec</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+net35
+]]></content>
+  <tabTrigger>fw:.NET 3.5</tabTrigger>
+  <scope>text.xml.nuspec</scope>
+</snippet>

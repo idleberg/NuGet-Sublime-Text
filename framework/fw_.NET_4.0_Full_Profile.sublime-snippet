@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+net40-full
+]]></content>
+  <tabTrigger>fw:.NET 4.0 Full Profile</tabTrigger>
+  <scope>text.xml.nuspec</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+windowsphone8
+]]></content>
+  <tabTrigger>fw:Windows Phone 8</tabTrigger>
+  <scope>text.xml.nuspec</scope>
+</snippet>
