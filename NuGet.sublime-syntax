@@ -1,0 +1,10 @@
+%YAML 1.2
+---
+# http://www.sublimetext.com/docs/3/syntax.html
+name: NuGet
+file_extensions:
+  - nuspec
+scope: text.xml.nuspec
+contexts:
+  main:
+    - include: scope:text.xml
