@@ -1,0 +1,35 @@
+<snippet>
+	<content><![CDATA[
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/1410/07/nuspec.xsd">
+  <metadata>
+    <id>${1:package_id}</id>
+    <version>${2:1.0.0}</version>
+    <title>${3:title}</title>
+    <authors>${4:name}</authors>
+    <owners>${5:owners}</owners>
+    <licenseUrl>${6:http://${7:license_url}}</licenseUrl>
+    <projectUrl>${8:http://${9:project_url}}</projectUrl>
+    <iconUrl>${10:http://${11:icon_url}}</iconUrl>
+    <paskageSourceUrl>${12:http://${13:package_source_url}}</paskageSourceUrl>
+    <docsUrl>${14:http://${15:docs_url}}</docsUrl>
+    <mailinglistUrl>${16:http://${17:mailing_list_url}}</mailinglistUrl>
+    <bugTrackerUrl>${18:http://${19:bugtracker_url}}</bugTrackerUrl>
+    <requireLicenseAcceptance>${20:true|false}</requireLicenseAcceptance>
+    <summary>${21:summary}</summary>
+    <description>${22:package_description}</description>
+    <releaseNotes>${23:summary_of_changes}</releaseNotes>
+    <copyright>${24:Copyright © ${25:year}}</copyright>
+    <tags>${26:tags}</tags>
+    ${27:<dependencies>
+      <dependency id="${28:sample_dependency}" version="${29:1.0}" />
+    </dependencies>}
+    <files>
+      <file src="tools\**" target="tools" />
+    </files>
+  </metadata>
+</package>
+]]></content>
+	<tabTrigger>choco</tabTrigger>
+	<scope>text.xml.nuspec</scope>
+</snippet>
