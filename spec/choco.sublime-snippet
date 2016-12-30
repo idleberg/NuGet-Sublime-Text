@@ -11,7 +11,7 @@
     <licenseUrl>${6:http://${7:license_url}}</licenseUrl>
     <projectUrl>${8:http://${9:project_url}}</projectUrl>
     <iconUrl>${10:http://${11:icon_url}}</iconUrl>
-    <paskageSourceUrl>${12:http://${13:package_source_url}}</paskageSourceUrl>
+    <packageSourceUrl>${12:http://${13:package_source_url}}</packageSourceUrl>
     <docsUrl>${14:http://${15:docs_url}}</docsUrl>
     <mailinglistUrl>${16:http://${17:mailing_list_url}}</mailinglistUrl>
     <bugTrackerUrl>${18:http://${19:bugtracker_url}}</bugTrackerUrl>
@@ -24,10 +24,10 @@
     ${27:<dependencies>
       <dependency id="${28:sample_dependency}" version="${29:1.0}" />
     </dependencies>}
-    <files>
-      <file src="tools\**" target="tools" />
-    </files>
   </metadata>
+    <files>
+          <file src="tools\**" target="tools" />
+    </files>
 </package>
 ]]></content>
 	<tabTrigger>choco</tabTrigger>
