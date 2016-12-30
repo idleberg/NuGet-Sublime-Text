@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://schemas.microsoft.com/packaging/1410/07/nuspec.xsd">
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>${1:package_id}</id>
     <version>${2:1.0.0}</version>
@@ -13,7 +13,7 @@
     <iconUrl>${10:http://${11:icon_url}}</iconUrl>
     <packageSourceUrl>${12:http://${13:package_source_url}}</packageSourceUrl>
     <docsUrl>${14:http://${15:docs_url}}</docsUrl>
-    <mailinglistUrl>${16:http://${17:mailing_list_url}}</mailinglistUrl>
+    <mailingListUrl>${16:http://${17:mailing_list_url}}</mailingListUrl>
     <bugTrackerUrl>${18:http://${19:bugtracker_url}}</bugTrackerUrl>
     <requireLicenseAcceptance>${20:true|false}</requireLicenseAcceptance>
     <summary>${21:summary}</summary>
