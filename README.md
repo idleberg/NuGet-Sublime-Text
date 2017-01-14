@@ -14,7 +14,7 @@ Sublime Text snippets for creating [NuGet](http://www.nuget.org/) XML files.
 2. Choose *“Install Package”* from the Command Palette (<kbd>Super</kbd>+<kbd>Shift</kbd>+<kbd>p</kbd>)
 3. Type *“NuGet”* and press <kbd>Enter</kbd>
 
-### GitHub
+### Using Git
 
 1. Change to your Sublime Text `Packages` directory
 2. Clone repository `git clone https://github.com/idleberg/sublime-nuget.git NuGet`
